@@ -1,0 +1,15 @@
+The Only Commands You Need:
+
+
+1. The Very First Time You Create a Repository
+- git status
+- git init
+- git add .
+- git commit -m "new message"
+- git remote add origin [https://github.com/websitevanilla/Git101.git] //change the url to be your own repository, and dont put the square brackets
+- git push -u origin master
+
+2. The other times you make changes to your local folder
+- git add .
+- git commit -m "new files added"
+- git push
